@@ -1,0 +1,4 @@
+# /etc/local.d/logrotate.stop
+
+/usr/sbin/logrotate -f /etc/logrotate.conf
+
